@@ -1,0 +1,496 @@
+1574031561577	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilenCobgM"
+1574031562345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574031562345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574031562345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574031562346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574031565435	Marionette	INFO	Listening on port 56344
+1574031565453	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574031988520	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofiledTjko6"
+1574031989215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574031989215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574031989215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574031989215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574031992052	Marionette	INFO	Listening on port 56523
+1574031992088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574032040046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilewxgkJr"
+1574032040791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574032040791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574032040791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574032040791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574032043950	Marionette	INFO	Listening on port 56629
+1574032043993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574032101553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilem91nvf"
+1574032102269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574032102269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574032102269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574032102270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574032105392	Marionette	INFO	Listening on port 56742
+1574032105411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574032149232	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilempbqol"
+1574032149985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574032149985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574032149986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574032149986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574032153168	Marionette	INFO	Listening on port 56828
+1574032153197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1574032192134	Marionette	INFO	Stopped listening on port 56523
+[Parent 8538, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1574032196166	Marionette	INFO	Stopped listening on port 56629
+1574032197676	Marionette	INFO	Stopped listening on port 56742
+1574032242708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileGeJi74"
+1574032244086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574032244087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574032244088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574032244088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574032247280	Marionette	INFO	Listening on port 56955
+1574032247292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574032463202	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofiles72oot"
+1574032463933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574032463933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574032463934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574032463934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574032466888	Marionette	INFO	Listening on port 57120
+1574032466948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574032480971	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574032555187	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilewmEiSE"
+1574032556399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574032556400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574032556400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574032556400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574032559311	Marionette	INFO	Listening on port 57226
+1574032559355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033087653	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileCT62eH"
+1574033088409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033088409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033088409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033088409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033091509	Marionette	INFO	Listening on port 57630
+1574033091604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033209423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilebq8V3i"
+1574033210140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033210141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033210141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033210141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033213208	Marionette	INFO	Listening on port 57777
+1574033213301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033250516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofile4IKnnp"
+1574033251589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033251590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033251590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033251590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033254789	Marionette	INFO	Listening on port 57873
+1574033254826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033324667	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileAoEq0O"
+1574033325413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033325413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033325414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033325414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033328422	Marionette	INFO	Listening on port 57976
+1574033328448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033381776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofile0NelJX"
+1574033382981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033382981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033382982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033382982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033386078	Marionette	INFO	Listening on port 58061
+1574033386186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1574033433457	Marionette	INFO	Stopped listening on port 56955
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1574033434771	Marionette	INFO	Stopped listening on port 56828
+1574033436201	Marionette	INFO	Stopped listening on port 57120
+[Parent 8715, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1574033439762	Marionette	INFO	Stopped listening on port 57630
+1574033441606	Marionette	INFO	Stopped listening on port 57777
+1574033443348	Marionette	INFO	Stopped listening on port 57873
+1574033445073	Marionette	INFO	Stopped listening on port 57976
+1574033446660	Marionette	INFO	Stopped listening on port 57226
+1574033448243	Marionette	INFO	Stopped listening on port 58061
+1574033487839	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofile9qrScP"
+1574033488545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033488546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033488546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033488546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033491686	Marionette	INFO	Listening on port 58168
+1574033491777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033537017	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilefdAIAZ"
+1574033537735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033537735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033537735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033537735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033540747	Marionette	INFO	Listening on port 58255
+1574033540773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033576271	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofile9vH8jQ"
+1574033576994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033576995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033576995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033576995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033580101	Marionette	INFO	Listening on port 58340
+1574033580121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033625233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilelT5blg"
+1574033626150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033626151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033626151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033626151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033629730	Marionette	INFO	Listening on port 58426
+1574033629812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033688727	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileVmdtgC"
+1574033689443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033689443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033689443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033689443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033692195	Marionette	INFO	Listening on port 58540
+1574033692374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8871, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033769865	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileAXmZwK"
+1574033770605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033770605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033770605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033770605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033773679	Marionette	INFO	Listening on port 58642
+1574033773719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: https://emkei.cz/recaptcha.js, line 1: ReferenceError: grecaptcha is not defined
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1574033855692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileh0L1GO"
+1574033856952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033856953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033856953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033856953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033860003	Marionette	INFO	Listening on port 58732
+1574033860094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574033912559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofile47Aajm"
+1574033913327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033913328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033913328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033913328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033916559	Marionette	INFO	Listening on port 58840
+1574033916608	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1574033938523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileqwa4AZ"
+1574033939323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574033939323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574033939323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574033939323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574033942675	Marionette	INFO	Listening on port 58929
+1574033942698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8938, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1574034007289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileVpAcS6"
+1574034008010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034008011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034008011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034008011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034010918	Marionette	INFO	Listening on port 59033
+1574034010952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/recaptcha.js, line 1: ReferenceError: grecaptcha is not defined
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574034068417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilePfl3S5"
+1574034069122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034069122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034069122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034069122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034072026	Marionette	INFO	Listening on port 59137
+1574034072059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/recaptcha.js, line 1: ReferenceError: grecaptcha is not defined
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574034258317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilext7Q3L"
+1574034259108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034259108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034259109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034259109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034262200	Marionette	INFO	Listening on port 59265
+1574034262255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574034349864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileYtcSc7"
+1574034350765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034350765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034350766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034350766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034354202	Marionette	INFO	Listening on port 59374
+1574034354274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574034435456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofile3AwLdP"
+1574034436420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034436421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034436421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034436421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034439687	Marionette	INFO	Listening on port 59480
+1574034439709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1574034512956	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileUIfW78"
+1574034514661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034514661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034514662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034514662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034518124	Marionette	INFO	Listening on port 59588
+1574034518180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574034703553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilefxCIBE"
+1574034704505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034704506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034704506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034704506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034708390	Marionette	INFO	Listening on port 59720
+1574034708420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574034765557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofile0zKCif"
+1574034766566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034766566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034766566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034766566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034769830	Marionette	INFO	Listening on port 59826
+1574034769885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1574034822805	Marionette	INFO	Stopped listening on port 58168
+1574034824280	Marionette	INFO	Stopped listening on port 58255
+1574034825955	Marionette	INFO	Stopped listening on port 58340
+1574034827270	Marionette	INFO	Stopped listening on port 58426
+1574034828849	Marionette	INFO	Stopped listening on port 58732
+1574034830079	Marionette	INFO	Stopped listening on port 59033
+1574034831488	Marionette	INFO	Stopped listening on port 59137
+1574034832687	Marionette	INFO	Stopped listening on port 59265
+1574034833899	Marionette	INFO	Stopped listening on port 59374
+1574034835073	Marionette	INFO	Stopped listening on port 59588
+1574034836110	Marionette	INFO	Stopped listening on port 59720
+1574034837849	Marionette	INFO	Stopped listening on port 59826
+1574034845674	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilesineVz"
+1574034846415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034846415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034846415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034846416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034849343	Marionette	INFO	Listening on port 59916
+1574034849447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1574034897878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilelrWQlP"
+1574034898673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034898674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034898674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034898674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034902550	Marionette	INFO	Listening on port 60017
+1574034902583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574034996247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofile5invn1"
+1574034996965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574034996965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574034996965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574034996965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574034999915	Marionette	INFO	Listening on port 60135
+1574034999992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574035138285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileaa2DhJ"
+1574035139101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574035139102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574035139102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574035139102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574035142115	Marionette	INFO	Listening on port 60254
+1574035142180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574035222305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilePIKi5i"
+1574035223040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574035223040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574035223041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574035223041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574035226093	Marionette	INFO	Listening on port 60354
+1574035226163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1574035306231	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilebgPTao"
+1574035306973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574035306973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574035306973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574035306973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574035309811	Marionette	INFO	Listening on port 60455
+1574035309888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574035396170	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofileUxnxXY"
+1574035396929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574035396929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574035396929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574035396929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574035400104	Marionette	INFO	Listening on port 60562
+1574035400156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+1574035502783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nt/cs56jbbn1bd3g6xqygj7qswm0000gn/T/rust_mozprofilesi5cCU"
+1574035503525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574035503525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574035503526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574035503526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574035506526	Marionette	INFO	Listening on port 60671
+1574035506619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null
+JavaScript error: https://emkei.cz/main.js, line 234: TypeError: document.getElementById(...) is null

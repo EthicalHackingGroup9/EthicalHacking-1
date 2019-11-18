@@ -35,17 +35,21 @@ for scamFormat in scams:
 		text = browser.find_element_by_id('text')
 		text.send_keys(scam["text"])
 
-		#First try
-		pyautogui.scroll(-300)
-		pyautogui.moveTo(542, 722) 
-		pyautogui.doubleClick()
+		browser.find_element_by_xpath("//input[@type='submit']").click()
+		textInsideInputBox=browser.find_element_by_id('from').get_attribute("value")
+		tryIt=2
+		while textInsideInputBox!=None and textInsideInputBox!="":
 
-		time.sleep(5)
+			browser.find_element_by_xpath("//input[@type='submit']").click()
 
-		#Second try
-		pyautogui.scroll(-300)
-		pyautogui.moveTo(542, 722)
-		pyautogui.doubleClick()
-		pyautogui.moveTo(544, 657) 
-		pyautogui.doubleClick()
+			tryIt-=1
+			#prevent an infinitive loop 
+			if tryIt<=0:
+				browser.get('https://emkei.cz/')
+				break
+
+			textInsideInputBox=browser.find_element_by_id('from').get_attribute("value")
+			time.sleep(20)
+
+
 		
